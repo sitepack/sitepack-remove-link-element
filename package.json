@@ -1,0 +1,22 @@
+{
+  "name": "@sitepack/remove-link-element",
+  "version": "1.0.0",
+  "description": "Remove particular link element from document.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitepack/sitepack-remove-link-element.git"
+  },
+  "keywords": [
+    "sitepack"
+  ],
+  "author": "Jas Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sitepack/sitepack-remove-link-element/issues"
+  },
+  "homepage": "https://github.com/sitepack/sitepack-remove-link-element#readme"
+}
